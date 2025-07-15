@@ -4,6 +4,7 @@ Each folder demonstrates fundamental and intermediate Go concepts with small, fo
 
 # 📂 Project Structure
 
+```
 ├── Basics-01
 │   ├── Arrays
 │   ├── Conditonals
@@ -28,6 +29,7 @@ Each folder demonstrates fundamental and intermediate Go concepts with small, fo
 │   ├── 10-channels
 │   └── lcowebserver
 └── README.md
+```
 
 # ✨ Contents
 # 📦 Basics-01 – Fundamental Go Concepts
