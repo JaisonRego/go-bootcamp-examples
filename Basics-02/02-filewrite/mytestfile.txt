@@ -1,0 +1,1 @@
+This will be inside a file , user is {{ .Name }} whose age is {{ .Age}} 
