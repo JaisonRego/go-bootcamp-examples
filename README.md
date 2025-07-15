@@ -3,6 +3,7 @@ This repository contains step‑by‑step examples for learning Go, organized in
 Each folder demonstrates fundamental and intermediate Go concepts with small, focused code samples.
 
 # 📂 Project Structure
+
 ├── Basics-01
 │   ├── Arrays
 │   ├── Conditonals
